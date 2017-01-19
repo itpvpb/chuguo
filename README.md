@@ -14,9 +14,13 @@
 
 [下载Windows AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect-win-4.2.04018-pre-deploy-k9.msi)
 
-[下载Android AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect.vpn.android.avf-4.0.01287.apk)
+[下载MacOS AnyConnect 客户端](http://7xrvud.dl1.z0.glb.clouddn.com/anyconnect-macosx-i386-4.2.03013-k9.dmg)
 
-[全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html) (包括Windows,Android,Mac OS X,Kindle,Android,Linux)
+[下载Android AnyConnect 客户端](http://7xrvud.dl1.z0.glb.clouddn.com/AnyConnect_4.0.05026.apk)
+
+[下载IOS AnyConnect 客户端，请打开应用市场直接搜索AnyConnect即可以直接安装]
+
+[其它全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html) (包括Windows,Android,Mac OS X,Kindle,Android,Linux)
 
 #官方Chrome浏览器下载
 [下载最新官方Chrome 53版本浏览器](http://pan.baidu.com/s/1bPR0f0)
